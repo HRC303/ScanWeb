@@ -29,7 +29,7 @@ then
     echo "_________________________________"
     echo
     sleep 10
-    $HOME
+    
     apt install wget
     wget -O rapidscan.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x rapidscan.py
 
@@ -37,7 +37,7 @@ then
     echo
     sleep 3
     echo "# RapidScan berhasil diinstall "
-    echo "# cek di HOME termuxMu"
+    echo "# RapidScan tersimpan di tool ini"
     echo
     
     fi
