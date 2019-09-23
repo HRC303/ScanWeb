@@ -29,7 +29,7 @@ then
     echo "_________________________________"
     echo
     sleep 10
-    
+    $HOME
     apt install wget
     wget -O rapidscan.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x rapidscan.py
 
