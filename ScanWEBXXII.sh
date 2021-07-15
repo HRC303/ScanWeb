@@ -13,7 +13,7 @@ echo "┊╱╱╭╯╱▔▔▔╲▂▂△▂△╮ "
 echo "━━━╯╱╱╭━━━━━━━━╯  "
 echo "TEAM ZONAREDXXII SECURITY HACKER COMMANDER"
 
-echo "#####***_-TOOLSscannerZONAREDXXII-_@@@#####" 
+echo "#####***_-TOOLS HACK WEBSITE-_@@@#####" 
 echo
 echo "===================[~]===================="
 echo
@@ -31,7 +31,7 @@ then
     sleep 10
     $HOME
     apt install wget
-    wget -O ZonaredXXII.py https://github.com/zonaredXXII/ScanWebXXII.git && chmod +x ZonaredXXII.py
+    wget -O ZonaredXXII.py https://github.com/zonaredXXII/HackWebXXII.git && chmod +x ZonaredXXII.py
 
     figlet "Terinstall"
     echo
