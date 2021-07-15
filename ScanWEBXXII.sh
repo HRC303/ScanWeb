@@ -31,7 +31,7 @@ then
     sleep 10
     $HOME
     apt install wget
-    wget -O ZonaredXXII.py https://github.com/zonaredXXII/HackWebXXII.git && chmod +x ZonaredXXII.py
+    wget -O ZonaredXXII.py https://github.com/zonaredXXII/ZonaredXXII.git && chmod +x ZonaredXXII.py
 
     figlet "Terinstall"
     echo
