@@ -6,18 +6,18 @@ clear
 echo "━━━╮        " 
 echo "━━╮╰╮┊┊┊┊┊┊"
 echo "┊┊╰╮╰━▂▂▂▂┊┊┊┊┊┊ "
-echo "┊▂╱▔╲▔╱┏┳╮╲┊┊ᶤ.╭╮ "
+echo "┊▂╱▔╲▔╱┏┳╮╲"
 echo "▂╲▂▂╱╲╲╰┻┛╱▔▔▔▔┃ " 
 echo "╲▂▂╱╭╯╱▔▔╱▔▔▔▽▽╯ "
 echo "┊╱╱╭╯╱▔▔▔╲▂▂△▂△╮ "
 echo "━━━╯╱╱╭━━━━━━━━╯  "
-echo
+echo "TEAM ZONAREDXXII SECURITY HACKER COMMANDER"
 
-echo "#####***_-NetHunter-_@@@#####" 
+echo "#####***_-NetHunterXXII-_@@@#####" 
 echo
 echo "===================[~]===================="
 echo
-read -p "apakah kamu tetap ingin melanjutkan ? y/n : " aa
+read -p "apakah anda tetap ingin melanjutkan ? y/n : " aa
 echo
 if [ $aa = "y" ]
 then
@@ -25,13 +25,13 @@ then
 
     echo "_________________________________"
     echo
-    echo "# sedang manginstall RapidScan..."
+    echo "# sedang manginstall NetHunterXXII..."
     echo "_________________________________"
     echo
     sleep 10
     $HOME
     apt install wget
-    wget -O rapidscan.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x rapidscan.py
+    wget -O NetHunterXXII.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x NetHunterXXII.py
 
     figlet "Terinstall"
     echo
