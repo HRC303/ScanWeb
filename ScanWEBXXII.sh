@@ -13,7 +13,7 @@ echo "┊╱╱╭╯╱▔▔▔╲▂▂△▂△╮ "
 echo "━━━╯╱╱╭━━━━━━━━╯  "
 echo "TEAM ZONAREDXXII SECURITY HACKER COMMANDER"
 
-echo "#####***_-NetHunterXXII-_@@@#####" 
+echo "#####***_-TOOLSscannerZONAREDXXII-_@@@#####" 
 echo
 echo "===================[~]===================="
 echo
@@ -25,19 +25,19 @@ then
 
     echo "_________________________________"
     echo
-    echo "# sedang manginstall NetHunterXXII..."
+    echo "# sedang manginstall Tools ZonaredXXII..."
     echo "_________________________________"
     echo
     sleep 10
     $HOME
     apt install wget
-    wget -O NetHunterXXII.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x NetHunterXXII.py
+    wget -O ZonaredXXII.py https://github.com/zonaredXXII/ZonaredXXII.git && chmod +x ZonaredXXII.py
 
     figlet "Terinstall"
     echo
     sleep 3
-    echo "# RapidScan berhasil diinstall "
-    echo "# RapidScan tersimpan di tool ini"
+    echo "# ZonaredXXII berhasil diinstall "
+    echo "# ZonaredXXII tersimpan di tool ini"
     echo
     
     fi
