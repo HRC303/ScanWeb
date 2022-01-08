@@ -11,7 +11,7 @@ echo "▂╲▂▂╱╲╲╰┻┛╱▔▔▔▔┃ "
 echo "╲▂▂╱╭╯╱▔▔╱▔▔▔▽▽╯ "
 echo "┊╱╱╭╯╱▔▔▔╲▂▂△▂△╮ "
 echo "━━━╯╱╱╭━━━━━━━━╯  "
-echo "TEAM ZONAREDXXII SECURITY HACKER COMMANDER"
+echo "TEAM HRCreator SECURITY HACKER COMMANDER"
 
 echo "#####***_-TOOLS HACK WEBSITE-_@@@#####" 
 echo
@@ -25,19 +25,19 @@ then
 
     echo "_________________________________"
     echo
-    echo "# sedang manginstall Tools ZonaredXXII..."
+    echo "# sedang manginstall Tools HRCreator..."
     echo "_________________________________"
     echo
     sleep 10
     $HOME
     apt install wget
-    wget -O ZonaredXXII.py https://github.com/zonaredXXII/ZonaredXXII.git && chmod +x ZonaredXXII.py
+    wget -O https://github.com/HRC303/rapidscan.git && chmod +x HRC303.py
 
     figlet "Terinstall"
     echo
     sleep 3
-    echo "# ZonaredXXII berhasil diinstall "
-    echo "# ZonaredXXII tersimpan di tool ini"
+    echo "# HRC303 berhasil diinstall "
+    echo "# HRC303 tersimpan di tool ini"
     echo
     
     fi
